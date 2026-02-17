@@ -8,10 +8,16 @@
 
 // --- Custom Styles Start Here ---
 
-.home .page-heading,
-.post-list-heading {
-  display: none !important;
+.page-heading, 
+.post-list-heading, 
+.site-header .wrapper .page-link + .page-heading {
+    display: none !important;
 }
+
+header h1, .header-inline-status {
+    display: none !important;
+}
+
 
 .profile-img {
     display: block;
