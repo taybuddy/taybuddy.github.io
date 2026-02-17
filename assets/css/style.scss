@@ -170,26 +170,40 @@ h3 {
 .footer-copyright {
   font-size: 13px;
   color: #999;
-  p { margin: 0; }
+  p { 
+    margin: 0; 
+    line-height: 1;
+  }
 }
 
 .social-links {
-  font-size: 18px;
+  font-size: 16px !important;
   
   ul { 
     margin: 0; 
     padding: 0; 
     list-style: none; 
     display: flex; 
+    align-items: center;
+  }
+  
+  li {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
   }
 
   a {
     color: #999 !important;
-    margin-left: 20px; 
+    margin-left: 15px; 
     text-decoration: none;
+    line-height: 1;
     transition: color 0.2s ease;
     
-    &:hover { color: #111 !important; }
+    &:hover { 
+      color: #111 !important; 
+    }
   }
 }
 
