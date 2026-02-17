@@ -3,7 +3,7 @@ layout: home
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="Tay Zar Lin">
 
-# Hi, it's nice to meet you! 👋
+## Hi, it's nice to meet you! 👋
 Let me explore my passion and share what I learn along the way.
 
 ---
