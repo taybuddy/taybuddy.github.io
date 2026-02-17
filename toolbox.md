@@ -64,4 +64,4 @@ My favorite environment for writing code.
 
 ---
 
-> "The tools don't make the engineer, but they certainly help the journey."
+> "The more skilled in using tools, the faster the productivity will be."
