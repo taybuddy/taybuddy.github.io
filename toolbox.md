@@ -15,12 +15,10 @@ The physical tools that I rely on every day.
 | **Storage** | Seagate External 500GB HDD |
 | **Mobile** | Redmi 7 Handset |
 
----
 
 ### 🐧 Operating System
 * **Ubuntu 24.04 LTS** - My primary daily driver for stability and performance.
 
----
 
 ### 🚀 Desktop Software
 
@@ -30,7 +28,6 @@ The physical tools that I rely on every day.
 | **Reading** | Bookworm Document Reader, Typecatcher |
 | **Development** | LAMPP (Local Apache, MariaDB, PHP) |
 
----
 
 ### 🎨 Image Editors & Prototyping
 * 🎨 **Inkscape** - Vector graphics
@@ -38,14 +35,12 @@ The physical tools that I rely on every day.
 * 🎞️ **Rawtherapee** - RAW image processing
 * ☁️ **Canva** - Quick online designs
 
----
 
 ### ✍️ Writing & Notes
 * [ ] **Google Keep** (Quick notes)
 * [ ] **Google Docs** (Documents)
 * [ ] **MarkText** (Markdown editing)
 
----
 
 ### 💻 Code Editor: VS Code
 My favorite environment for writing code.
@@ -53,7 +48,6 @@ My favorite environment for writing code.
 * **Icons:** VSCode Great Icons
 * **Key Extensions:** * `Live Server` (Instant browser preview)
 
----
 
 ### 🌐 Web Browser: Chrome
 **Essential Extensions:**
@@ -63,7 +57,6 @@ My favorite environment for writing code.
 * 📸 **GoFullPage** (Full page screenshots)
 * 📝 **Lorem Ipsum Generator**
 
----
 
 ### ☁️ Cloud Services
 * 📦 **Dropbox**
