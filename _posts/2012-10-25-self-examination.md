@@ -1,6 +1,13 @@
-Self-Examination: A Reflection
+---
+layout: post 
+title: "Self-Examination: A Reflection"
+date: 2012-10-25
+categories: "Random Thoughts"
+tags: [personal, thinking]
+---
+# Self-Examination: A Reflection
 
-“Examine your own mind. Examine your own mind. Examine your own mind.”
+> “Examine your own mind. Examine your own mind. Examine your own mind.”
 
 I came across this motto this morning while taking the special express bus from Myaynigone. Long after I got off the bus, those words kept echoing in my thoughts. Perhaps it was because of how brief they were, yet how deeply they cut to the chase.
 
