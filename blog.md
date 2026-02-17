@@ -4,7 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-**I started blogging in 2012. I share what I’ve learned along the way.**
+# All posts
+
+I started blogging in 2012. I share what I’ve learned along the way.
 
 <ul>
   {% for post in site.posts %}
