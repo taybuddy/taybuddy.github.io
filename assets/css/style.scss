@@ -8,9 +8,17 @@
 
 // --- Custom Styles Start Here ---
 
-.home .page-heading,
-.post-list-heading {
-  display: none !important;
+.page .page-heading {
+    display: none !important;
+}
+
+.home .post-list-heading {
+    display: none !important;
+}
+
+.post .post-title,
+.post .post-header h1{
+  display: block !important;
 }
 
 .profile-img {
