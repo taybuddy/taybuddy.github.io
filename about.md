@@ -39,9 +39,3 @@ Currently, most of my time is spent focusing on data-driven insights and project
 ### Development Tools
 `Git/GitHub` `Visual Studio Code` `Power BI` `Excel/Google Sheets`
 
----
-
-### Contact
-**How can I help you?**
-Email: taytheanalyst@gmail.com
-X: [@tay_zar_lin](http://x.com/tay_zar_lin)
