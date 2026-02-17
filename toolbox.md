@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Toolbox
 permalink: /toolbox/
 ---
 # Software, Apps, Gears, and Other Stuff What I Use Daily

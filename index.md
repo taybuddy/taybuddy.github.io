@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page 
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="Tay Zar Lin">
 
