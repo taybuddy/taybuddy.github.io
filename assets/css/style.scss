@@ -85,22 +85,23 @@ html {
 }
 
 .post-list {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   list-style: none;
 }
 
 .post-list > li {
-  margin-bottom: 5px !important;
-  display: flex; 
-  align-items: baseline; 
+  margin-bottom: 0 !important;
+  padding-bottom: 5px !important;
+   display: flex !important; 
+   align-items: baseline; 
   flex-wrap: wrap; 
 }
 
 .post-list h3 {
-  display: inline; 
-  margin: 0;
-  padding: 0;
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
   line-height: 1.2 !important;
 }
 
