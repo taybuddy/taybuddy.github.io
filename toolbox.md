@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Toolbox
+title: Software, Apps, Gears, and Other Stuff What I Use Daily
 permalink: /toolbox/
----
-
-# 🛠️ My Toolbox
-Software, Apps, Gears, and other stuff I use daily to keep things moving.
-
 ---
 
 ### 💻 Hardware & Gears
