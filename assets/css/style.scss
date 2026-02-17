@@ -8,74 +8,98 @@
 
 // --- Custom Styles Start Here ---
 
-// ၁။ Layout & Scrollbar
 html {
   overflow-y: scroll;
-  scrollbar-gutter: stable;
 }
 
-::-webkit-scrollbar { width: 8px; }
-::-webkit-scrollbar-track { background: #f1f1f1; }
-::-webkit-scrollbar-thumb { background: #ccc; border-radius: 10px; }
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ccc; 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #999; 
+}
 
 .wrapper {
+    max-width: -webkit-calc(800px - (30px * 2));
     max-width: calc(800px - (30px * 2));
-    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-// ၂။ UI Cleanup
+.page-content h1, 
+.page-content h2, 
+.post-header {
+    border-bottom: none !important;
+}
+
+.page .page-heading {
+    display: none !important;
+}
+
+.home .post-list-heading {
+    display: none !important;
+}
+
+.post .post-title,
+.post .post-header h1{
+  display: block !important;
+}
+
 .site-header {
     background-color: #ffffff;
-    border: none !important;
+    border-top: none !important; 
+    border-bottom: none !important;
 }
 
 .site-title, .site-title:visited, .page-link {
     color: #111111 !important;
 }
 
-.page-content h1, .page-content h2, .post-header {
-    border-bottom: none !important;
+.page-content {
+  padding-top: 20px;
 }
 
-.page .page-heading, .home .post-list-heading {
+.profile-img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 4px solid #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.home .post-list-heading {
     display: none !important;
 }
 
-// ၃။ Content Spacing (Global)
-.page-content {
-    padding-top: 20px;
-    
-    h1 { font-size: 2rem; font-weight: 700; margin-bottom: 15px; letter-spacing: -0.5px; }
-    p { margin-bottom: 20px; line-height: 1.6; color: #333; }
-    
-    h3 {
-        margin-top: 40px !important;   
-        margin-bottom: 15px !important; 
-        font-size: 1.3rem;
-        font-weight: 600;
-    }
-}
-.profile-img {
-    display: block;
-    width: 140px;
-    height: 140px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-bottom: 30px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-
-// ၄။ Post List (Clean & Aligned)
 .post-list {
-  margin: 0;
-  padding: 0;
+  margin-top: 0;
+  padding-top: 0;
   list-style: none;
+}
 
-  li {
-    margin-bottom: 10px !important;
-    display: flex; 
-    align-items: baseline;
-  }
+.post-list > li {
+  margin-bottom: 5px !important;
+  display: flex; 
+  align-items: baseline; 
+  flex-wrap: wrap; 
+}
+
+.post-list h3 {
+  display: inline; 
+  margin: 0;
 }
 
 .post-link {
@@ -84,31 +108,47 @@ html {
   color: #111111 !important;
   text-decoration: none !important;
   font-weight: 500;
-  margin-left: 20px;
-  
-  &:hover { text-decoration: underline !important; }
+  margin-left: 25px; 
+}
+
+.post-link:hover {
+  text-decoration: underline !important;
 }
 
 .post-meta {
-  font-family: -apple-system, system-ui, sans-serif;
+  display: inline-block !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 14px;
-  color: #999;
+  color: #999999;
+  margin: 0; 
   min-width: 100px;
   white-space: nowrap;
 }
 
-.view-all {
-    display: inline-block;
-    margin-top: 20px;
-    font-size: 15px;
-    color: #666 !important;
-    text-decoration: none;
-    &:hover { text-decoration: underline; }
+@media screen and (max-width: 600px) {
+  .post-meta {
+    display: block;
+    margin-left: 0;
+    margin-top: 4px;
+  }
 }
 
-// ၅။ Mobile
-@media screen and (max-width: 600px) {
-  .post-list li { flex-wrap: wrap; }
-  .post-meta { display: block; min-width: 100%; margin-bottom: 4px; }
-  .post-link { margin-left: 0; font-size: 17px !important; }
+.home {
+    padding-top: 20px;
 }
+
+h3 {
+    margin-top: 50px !important;   
+    margin-bottom: 25px !important; 
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.home p {
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    margin-bottom: 30px;
+}
+
