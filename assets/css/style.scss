@@ -85,8 +85,8 @@ html {
 }
 
 .post-list {
-  margin-top: 0;
-  padding-top: 0;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
@@ -100,6 +100,8 @@ html {
 .post-list h3 {
   display: inline; 
   margin: 0;
+  padding: 0;
+  line-height: 1.2 !important;
 }
 
 .post-link {
@@ -108,7 +110,7 @@ html {
   color: #111111 !important;
   text-decoration: none !important;
   font-weight: 500;
-  margin-left: 25px; 
+  margin-left: 20px; 
 }
 
 .post-link:hover {
