@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: home
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="Tay Zar Lin">
 
@@ -13,10 +13,4 @@ Hi, I'm **Tay Zar Lin**. I'm an engineer from Myanmar (Burma), and who has a pas
 
 In 2016, I made [a website](#) for my friend's company. It was the first step of my journey in the web development field.
 
-### Education 🎓
-I graduated as an electronic & communication engineer at **Pyay Technological University (PTU)** in 2009.
-
-### Work Experience 💼
-I have been working in the Telecom industry since 2010.
-
-For the first (2) years, I worked in the mobile phone sales and service sector, and for the next (6) years in the telecom sector.
+### ✍️ Recent Posts
