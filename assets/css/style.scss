@@ -52,8 +52,13 @@ html {
     display: none !important;
 }
 
-.post .post-title,
-.post .post-header h1{
+.page .post-title,
+.page .post-header {
+  display: none !important;
+}
+
+.post .post-header,
+.post .post-title {
   display: block !important;
 }
 
@@ -70,9 +75,7 @@ html {
 .page-content {
   padding-top: 20px;
 }
-.post-content h1:first-of-type {
-    display: block !important;
-}
+
 
 .profile-img {
     display: block;
