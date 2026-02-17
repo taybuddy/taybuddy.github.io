@@ -3,7 +3,7 @@ author:
   name: Tay Zar Lin
   email: taytheanalyst@gmail.com
 description: >
-  Engineer and Data Analyst from Myanmar.
+  Engineer and Data Analyst from Myanmar (Burma)
   
 # Build settings
 remote_theme: jekyll/minima
@@ -16,8 +16,8 @@ minima:
   skin: auto
   nav_pages:
     - blog.md
-    - toolbox.md 
     - about.md
+    - toolbox.md 
   social_links:
     - title: github
       icon: github
