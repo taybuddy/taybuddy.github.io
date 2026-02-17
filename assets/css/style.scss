@@ -22,7 +22,13 @@
 }
 
 .site-header {
+    background-color: #ffffff;
+    border-top: none !important; 
     border-bottom: none !important;
+}
+
+.site-title, .site-title:visited, .page-link {
+    color: #111111 !important;
 }
 
 .page-content {
