@@ -5,7 +5,6 @@ date: 2012-10-25
 categories: "Random Thoughts"
 tags: [personal, thinking]
 ---
-# Self-Examination: A Reflection
 
 > “Examine your own mind. Examine your own mind. Examine your own mind.”
 
