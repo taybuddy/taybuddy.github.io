@@ -42,7 +42,9 @@ html {
     border-bottom: none !important;
 }
 
-.page .page-heading {
+.page-heading, 
+.post-list-heading, 
+.page-content h1:first-of-type {
     display: none !important;
 }
 
@@ -67,6 +69,9 @@ html {
 
 .page-content {
   padding-top: 20px;
+}
+.post-content h1:first-of-type {
+    display: block !important;
 }
 
 .profile-img {
