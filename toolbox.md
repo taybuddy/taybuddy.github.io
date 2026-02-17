@@ -23,6 +23,7 @@ The physical tools that I rely on every day.
 ---
 
 ### 🚀 Desktop Software
+
 | Category | Applications |
 | :--- | :--- |
 | **Office & Mail** | LibreOffice, Thunderbird Mail |
