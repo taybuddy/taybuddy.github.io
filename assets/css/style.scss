@@ -52,13 +52,14 @@ html {
     display: none !important;
 }
 
-.page-content > .wrapper > .post > .post-header {
-    display: none !important;
+.page .post-title,
+.page .post-header {
+  display: none !important;
 }
 
-.post-content-container .post-header,
-article.post .post-header {
-    display: block !important;
+.post .post-header,
+.post .post-title {
+  display: block !important;
 }
 
 .site-header {
