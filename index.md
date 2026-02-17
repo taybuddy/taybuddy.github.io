@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
 ---
-<img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Tay Zar Lin" style="width:150px; border-radius:50%;">
+<img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="Tay Zar Lin">
+
 # Hi, it's nice to meet you! 👋
 Let me explore my passion and share what I learn along the way.
 
