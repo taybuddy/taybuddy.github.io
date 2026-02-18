@@ -8,7 +8,6 @@ description: >
 # Build settings
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Minima-specific settings
