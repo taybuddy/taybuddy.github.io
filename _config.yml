@@ -1,6 +1,6 @@
-title: Tay Zar Lin 
+title: Tay @taybuddy
 author:
-  name: Tay Zar Lin
+  name: Tay
   email: taytheanalyst@gmail.com
 description: >
   Engineer and Data Analyst from Myanmar (Burma)
@@ -24,12 +24,12 @@ minima:
   social_links:
     - title: github
       icon: github
-      url: "https://github.com/taybuddy"
+      url: "#"
     - title: x-twitter
       icon: x-twitter
-      url: "https://x.com/tay_zar_lin"
+      url: "#"
 
 baseurl: ""
 url: "https://taybuddy.github.io"
 
-footer_content: "© 2026 Tay Zar Lin. All rights reserved."
+footer_content: "© 2026 Taybuddy. All rights reserved."
