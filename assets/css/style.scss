@@ -76,7 +76,8 @@ h1, h2, h3, h4, h5, h6, .site-title {
 
 // Post List (Compact Style)
 .post-list {
-  margin: 0 !important;
+  margin-top: 40px !important;
+  margin-bottom: 0 !important;
   padding: 0 !important;
   list-style: none;
 
@@ -91,7 +92,7 @@ h1, h2, h3, h4, h5, h6, .site-title {
       margin: 0 !important;
       padding: 0 !important;
       line-height: 1.2 !important;
-      font-size: 14px !important;
+      font-size: 12px !important;
       font-weight: 500 !important;
     }
   }
