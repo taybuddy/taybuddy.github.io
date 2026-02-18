@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Take Back Control"
+title: "I Don't Know What to Ask"
 date: 2019-12-18
 categories: "Random Thoughts"
 tags: [thinking]
