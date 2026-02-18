@@ -40,37 +40,49 @@ article p, article li {
 h1, h2, h3, h4, h5, h6, .site-title {
   font-weight: 700 !important;
 }
+
 // Icons & Hamburger Fix
 .menu-icon {
   font-family: initial !important;
   background-color: transparent !important;
+  position: relative;
+  display: block;
   float: right;
   width: 24px;
   height: 24px;
-  line-height: 0;
-  text-align: center;
 }
 
-.menu-icon > span,
-.menu-icon:before,
-.menu-icon:after {
-  content: ""; 
-  font-family: initial !important;
+.menu-icon > span {
+  position: absolute;
+  top: 50%;
+  left: 3px;
+  margin-top: -1px;
+  width: 18px;
+  height: 2px;
   background-color: #111 !important;
   display: block;
-  width: 18px;   
-  height: 2px;  
-  margin: 3px auto; 
-  border-radius: 1px;
 }
+
+.menu-icon:before,
+.menu-icon:after {
+  content: "";
+  position: absolute;
+  left: 3px;
+  width: 18px;
+  height: 2px;
+  background-color: #111 !important;
+  display: block;
+}
+
+.menu-icon:before { top: 6px; }  
+.menu-icon:after { bottom: 6px; } 
 
 .menu-icon > svg, .svg-icon {
   fill: #111; 
   width: 24px;
   height: 24px;
-  display: inline-block;
-  vertical-align: middle;
 }
+
 // Header & Navigation
 .site-header {
     background-color: #ffffff;
