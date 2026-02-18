@@ -36,6 +36,21 @@ svg, .svg-icon, .social-media-list svg, .menu-icon > svg {
 .site-header { background-color: #fff; border: none !important; }
 .site-title, .site-title:visited, .page-link { color: #111 !important; text-decoration: none !important; }
 
+
+.post-content .post-title {
+  display: block !important;
+}
+
+.page .post-title, 
+.page-header .post-title {
+  display: none !important;
+}
+
+body:not(.post) .post-title {
+  display: none !important;
+}
+
+
 // Profile Image
 .profile-img {
   display: block; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;
