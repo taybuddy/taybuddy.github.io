@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "I Don't Know What to Ask"
-date: 2019-12-18
+date: 2015-10-04
 categories: "Random Thoughts"
 tags: [thinking]
 ---
