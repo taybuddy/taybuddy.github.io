@@ -42,19 +42,17 @@ h1, h2, h3, h4, h5, h6, .site-title {
 }
 
 // Icons & Hamburger Fix
-.menu-icon,
-.menu-icon span,
-.menu-icon:before,
-.menu-icon:after,
-.svg-icon, 
-svg {
+.menu-icon {
   font-family: initial !important;
+  background-color: transparent !important;
 }
 
 .menu-icon span,
 .menu-icon:before,
 .menu-icon:after {
-  background-color: #111 !important; 
+  font-family: initial !important;
+  background-color: #111 !important;
+  display: block;
 }
 
 .menu-icon > svg, .svg-icon {
