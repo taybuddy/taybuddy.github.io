@@ -149,9 +149,16 @@ svg,
 .social-links a {
   font-family: initial !important; 
   color: #999 !important;
-  margin-left: 10px;
+  margin-left: 5px;
   font-size: 14px;
   &:hover { color: #111 !important; }
+}
+
+.rss-subscribe, 
+.feed-subscribe,
+.footer-col-rss,
+.social-links a[href*="feed.xml"] {
+  display: none !important;
 }
 
 // Mobile Responsive
