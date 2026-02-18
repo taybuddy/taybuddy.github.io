@@ -11,6 +11,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+jekyll:
+  post_order: descending
+
 # Minima-specific settings
 minima:
   skin: auto
