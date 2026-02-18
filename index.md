@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="Tay Zar Lin">
 
@@ -16,3 +16,16 @@ In 2016, I made [a website](#) for my friend's company. It was the first step of
 &nbsp;
 
 ### ✍️ Recent Posts
+
+<ul class="post-list">
+  {% for post in site.posts limit: 10 %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
