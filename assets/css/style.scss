@@ -31,8 +31,7 @@ html {
 
 // Typography Force
 html, body, p, h1, h2, h3, h4, h5, h6, 
-.site-title, .page-link, .post-link, .post-meta, .trigger .page-link,
-article p, article li {
+.site-title, .page-link, .post-link, .post-meta {
   font-family: $base-font-family !important;
   letter-spacing: -0.01em; 
 }
@@ -41,38 +40,32 @@ h1, h2, h3, h4, h5, h6, .site-title {
   font-weight: 700 !important;
 }
 
-// Icons & Hamburger Fix
-.menu-icon {
+svg, 
+.svg-icon, 
+.social-media-list svg,
+.menu-icon > svg {
   font-family: initial !important;
-  background-color: #111 !important; 
-  position: relative;
-  display: block;
+  display: inline-block;
+  vertical-align: middle;
+  fill: currentColor; 
+}
+
+// Icons & Hamburger 
+.menu-icon {
+  display: block !important;
   float: right;
-  width: 20px;       
-  height: 1.5px;     
-  margin-top: 15px; 
-  border: none !important; 
-  padding: 0 !important;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
 }
 
-.menu-icon:before,
-.menu-icon:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  width: 20px;
-  height: 1.5px;    
-  background-color: #111 !important;
-  display: block;
+.menu-icon > svg {
+  width: 18px !important;
+  height: 15px !important;
+  fill: #111 !important; 
 }
 
-
-.menu-icon:before { top: -6px; }  
-.menu-icon:after { bottom: -6px; } 
-
-.menu-icon > svg, .svg-icon {
-  display: none !important; 
-}
 
 // Header & Navigation
 .site-header {
