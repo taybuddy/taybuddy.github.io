@@ -13,6 +13,8 @@ Hi, I'm **Tay Zar Lin**. I'm an engineer from Myanmar (Burma), and who has a pas
 
 In 2016, I made [a website](#) for my friend's company. It was the first step of my journey in the web development field.
 
+Currently, most of my time is spent focusing on data-driven insights and project growth.
+
 &nbsp;
 
 ### ✍️ Recent Posts
