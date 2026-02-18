@@ -90,15 +90,18 @@ h1, h2, h3, h4, h5, h6, .site-title {
       display: inline !important;
       margin: 0 !important;
       padding: 0 !important;
-      font-size: 16px !important;
+      line-height: 1.2 !important;
+      font-size: 14px !important;
       font-weight: 500 !important;
     }
   }
 }
 
 .post-link {
+  font-size: 16px !important;
   color: #111111 !important;
   text-decoration: none !important;
+  letter-spacing: -0.01em;
   margin-left: 20px;
   &:hover { text-decoration: underline !important; }
 }
