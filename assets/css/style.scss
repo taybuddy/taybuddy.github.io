@@ -154,12 +154,6 @@ svg,
   &:hover { color: #111 !important; }
 }
 
-.rss-subscribe, 
-.feed-subscribe,
-.footer-col-rss,
-.social-links a[href*="feed.xml"] {
-  display: none !important;
-}
 
 // Mobile Responsive
 @media screen and (max-width: 600px) {
