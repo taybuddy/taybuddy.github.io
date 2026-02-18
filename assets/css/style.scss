@@ -29,10 +29,32 @@ html {
     margin-left: auto;
 }
 
-html, body, p, a, h1, h2, h3, h4, h5, h6, span {
+html, body, p, h1, h2, h3, h4, h5, h6, 
+.site-title, .page-link, .post-link, .post-meta {
   font-family: $base-font-family !important;
   letter-spacing: -0.01em; 
 }
+
+.svg-icon, 
+.menu-icon, 
+.menu-icon svg,
+.social-media-list svg,
+.footer-col-wrapper svg,
+header svg,
+.social-links a svg {
+  font-family: initial !important; 
+}
+
+a {
+  font-family: $base-font-family !important;
+}
+
+.menu-icon, 
+.social-links a,
+.social-media-list a {
+  font-family: initial !important;
+}
+
 
 h1, h2, h3, h4, h5, h6, .site-title {
   font-weight: 700 !important;
@@ -132,9 +154,10 @@ h1, h2, h3, h4, h5, h6, .site-title {
 }
 
 .social-links a {
+  font-family: initial !important;
   color: #999 !important;
   margin-left: 15px;
-  font-size: 18px;
+  font-size: 16px;
   &:hover { color: #111 !important; }
 }
 
