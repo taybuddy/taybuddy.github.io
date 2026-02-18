@@ -38,16 +38,17 @@ svg, .svg-icon, .social-media-list svg, .menu-icon > svg {
 
 
 .post-title {
+  display: none !important;
+}
+
+body.post .post-title {
   display: block !important;
 }
 
-.page .post-header .post-title,
-.page-content .post-title:not(.post-list .post-title) {
-  display: none !important;
-}
-
-body:not(.post) .post-header .post-title {
-  display: none !important;
+.post-list .post-title, 
+.post-list h3,
+.post-list a {
+  display: inline-block !important; 
 }
 
 
