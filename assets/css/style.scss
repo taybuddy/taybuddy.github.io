@@ -29,39 +29,39 @@ html {
     margin-left: auto;
 }
 
+// Typography Force
 html, body, p, h1, h2, h3, h4, h5, h6, 
-.site-title, .page-link, .post-link, .post-meta {
+.site-title, .page-link, .post-link, .post-meta, .trigger .page-link,
+article p, article li {
   font-family: $base-font-family !important;
   letter-spacing: -0.01em; 
 }
-
-.svg-icon, 
-.menu-icon, 
-.menu-icon span,
-.menu-icon svg,
-.social-media-list svg,
-.footer-col-wrapper svg,
-header svg,
-.social-links a svg {
-  font-family: initial !important; 
-}
-
-a {
-  font-family: $base-font-family !important;
-}
-
-.menu-icon, 
-.social-links a,
-.social-media-list a {
-  font-family: initial !important;
-}
-
 
 h1, h2, h3, h4, h5, h6, .site-title {
   font-weight: 700 !important;
 }
 
-// UI Cleanup
+// Icons & Hamburger Fix
+.menu-icon,
+.menu-icon span,
+.menu-icon:before,
+.menu-icon:after,
+.svg-icon, 
+svg {
+  font-family: initial !important;
+}
+
+.menu-icon span,
+.menu-icon:before,
+.menu-icon:after {
+  background-color: #111 !important; 
+}
+
+.menu-icon > svg, .svg-icon {
+  fill: #111; 
+}
+
+// Header & Navigation
 .site-header {
     background-color: #ffffff;
     border: none !important;
@@ -69,22 +69,9 @@ h1, h2, h3, h4, h5, h6, .site-title {
 
 .site-title, .site-title:visited, .page-link {
     color: #111111 !important;
-}
-/*
-// Page Titles Hide/Show logic
-.page .post-title,
-.page .post-header,
-.page-heading, 
-.post-list-heading,
-.page-content h1:first-of-type {
-    display: none !important;
+    text-decoration: none !important;
 }
 
-.post .post-header,
-.post .post-title {
-    display: block !important;
-}
-*/
 // Profile Image
 .profile-img {
     display: block;
@@ -114,7 +101,7 @@ h1, h2, h3, h4, h5, h6, .site-title {
       margin: 0 !important;
       padding: 0 !important;
       line-height: 1.2 !important;
-      font-size: 12px !important;
+      font-size: 16px !important; 
       font-weight: 500 !important;
     }
   }
@@ -124,7 +111,6 @@ h1, h2, h3, h4, h5, h6, .site-title {
   font-size: 16px !important;
   color: #111111 !important;
   text-decoration: none !important;
-  letter-spacing: -0.01em;
   margin-left: 20px;
   &:hover { text-decoration: underline !important; }
 }
@@ -155,10 +141,10 @@ h1, h2, h3, h4, h5, h6, .site-title {
 }
 
 .social-links a {
-  font-family: initial !important;
+  font-family: initial !important; 
   color: #999 !important;
   margin-left: 15px;
-  font-size: 16px;
+  font-size: 14px;
   &:hover { color: #111 !important; }
 }
 
