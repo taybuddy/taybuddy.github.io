@@ -9,8 +9,62 @@
 
 // --- Custom Styles ---
 
+// Header & Navigation
+.site-header { 
+  background-color: #fff; 
+  border: none !important; }
+
+.site-title, .site-title:visited, 
+.page-link { 
+  color: #111 !important; 
+  text-decoration: none !important; 
+}
+
 // Profile Image
 .profile-img {
-  display: block; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;
-  margin-bottom: 30px; border: 4px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: block; 
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover; 
+  border-radius: 50%;
+  margin-bottom: 30px; 
+  border: 4px solid #fff; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+
+
+// Post List
+.post-list {
+  margin: 0 !important; 
+  padding: 0 !important; 
+  list-style: none;
+  li {
+    margin-bottom: 0 !important; 
+    padding-bottom: 8px !important; 
+    display: flex !important; 
+    align-items: baseline;
+    h3 { 
+      display: inline !important; 
+      margin: 0 !important; 
+      line-height: 1.2 !important; 
+      font-size: 16px !important; 
+      font-weight: 500 !important; 
+    }
+  }
+}
+
+.post-link { 
+  font-size: 16px !important; 
+  color: #111 !important; 
+  text-decoration: none !important; 
+  margin-left: 20px; &:hover { 
+    text-decoration: underline !important; 
+    } 
+  }
+
+.post-meta { 
+  font-size: 14px; color: #999; 
+  min-width: 100px; 
+  display: inline-block !important; 
 }
