@@ -33,4 +33,4 @@ Currently, most of my time is spent focusing on data-driven insights and project
 </ul>
 
 ### How can I help you?
-Email me: taytheanalyst@gmail.com
+Email me: taybuddy@example.com
