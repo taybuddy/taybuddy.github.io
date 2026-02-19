@@ -1,4 +1,5 @@
 title: "@taybuddy"
+
 author:
   name: Tay
   email: taybuddy@example.com
@@ -33,3 +34,5 @@ baseurl: ""
 url: "https://taybuddy.github.io"
 
 footer_content: "© 2026 Taybuddy. All rights reserved."
+
+hide_site_feed_link: true
