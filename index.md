@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="@taybuddy">
 
