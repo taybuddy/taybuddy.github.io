@@ -18,8 +18,8 @@ jekyll:
 minima:
   skin: auto
   nav_pages:
-    - blog.md
     - about.md
+    - blog.md
     - toolbox.md 
   social_links:
     - title: github
