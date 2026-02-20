@@ -14,3 +14,17 @@ h1, h2, h3, h4, h5, h6 {
 .site-nav .menu-icon {
   font-family: none !important; 
 }
+
+.site-title {
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+}
+
+.post-title, 
+.post-header h1, 
+.page-heading {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+  line-height: 1.1; 
+}
