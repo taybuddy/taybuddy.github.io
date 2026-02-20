@@ -33,8 +33,9 @@ Currently, most of my time is spent focusing on data-driven insights and project
 </ul>
 
 ### I will also be here:
+Life's joyful glitches and hectic moments
 
-<div>
+<div class="social-links-home">
   <span>
     <a href="#" target="_blank">
       <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">

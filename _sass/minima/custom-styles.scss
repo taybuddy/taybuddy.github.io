@@ -98,6 +98,16 @@ body {
   color: #333;
 }
 
+//index.md => icon container
+.social-links-home span {
+  margin-right: 15px; 
+  display: inline-block;
+}
+
+.social-links-home a:hover svg {
+  transform: scale(1.1); 
+}
+
 //Footer content
 .site-footer .wrapper::after {
   content: "© 2026 Taybuddy. All rights reserved.";
