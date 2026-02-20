@@ -3,8 +3,8 @@ layout: page
 ---
 <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="@taybuddy">
 
-# Hi, it's nice to meet you! 👋
-Let me explore my passion and share what I learn along the way.
+# Lorem ipsum dolor sit amet 👋
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
 
 ---
 
