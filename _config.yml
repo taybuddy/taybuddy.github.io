@@ -4,7 +4,7 @@ author:
   name: Tay
   email: taybuddy@example.com
 description: >
-  A guy who is coffeeholic, data nerd, and has a passion for digital economic velocity
+  Lorem ipsum dolor sit amet consectetur adipiscing elit
   
 # Build settings
 remote_theme: jekyll/minima
@@ -30,7 +30,6 @@ minima:
       icon: x-twitter
       url: "#"
   hide_site_feed_link: true
-  show_excerpts: true
 
 baseurl: ""
 url: "https://taybuddy.github.io"

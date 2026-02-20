@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 
 &nbsp;
 
-### ✍️ Recent Posts
+### ✍️ Lorem ipsum dolor
 
 <ul class="post-list">
   {% for post in site.posts limit: 10 %}
