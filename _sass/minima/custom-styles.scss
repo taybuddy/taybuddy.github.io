@@ -85,3 +85,20 @@ body {
   min-width: 100px; 
   display: inline-block !important; 
 }
+
+//Page List styling 
+.post-content ul li {
+  letter-spacing: -0.01em;
+  line-height: 1.6 !important;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+
+// Mobile Responsive
+@media screen and (max-width: 600px) {
+  .post-list li { flex-wrap: wrap; }
+  .post-meta { width: 100%; margin-bottom: 4px; }
+  .post-link { margin-left: 0; }
+  .footer-content { flex-direction: column-reverse; gap: 15px; text-align: center; }
+}
