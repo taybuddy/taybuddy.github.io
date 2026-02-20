@@ -19,6 +19,13 @@ body {
   line-height: 1.1;
 }
 
+.site-title, .site-title:visited { 
+  color: #111 !important; 
+  text-decoration: none !important; 
+  margin-top: 15px;     
+  display: inline-block;
+}
+
 .site-nav .menu-icon {
   font-family: none !important; 
 }
@@ -29,12 +36,9 @@ body {
   border: none !important; 
 }
 
-.site-title, .site-title:visited, 
 .page-link { 
   color: #111 !important; 
   text-decoration: none !important; 
-  margin-top: 10px;
-  display: inline-block;
 }
 
 // Profile Image
