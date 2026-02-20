@@ -17,11 +17,6 @@ body {
   line-height: 1.1;
 }
 
-.site-title {
-  margin-top: 10px;
-  display: inline-block;
-}
-
 .site-nav .menu-icon {
   font-family: none !important; 
 }
@@ -36,6 +31,8 @@ body {
 .page-link { 
   color: #111 !important; 
   text-decoration: none !important; 
+  margin-top: 10px;
+  display: inline-block;
 }
 
 // Profile Image
