@@ -1,31 +1,83 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-// custom-styles.scss ထဲမှာ ဒါလေးပဲ ထည့်ပါ
+
+// --- Typography (Inter Font) ---
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.site-title,
+.post-title, 
+.post-header h1, 
+.page-heading,
+.site-nav .page-link {
   font-family: 'Inter', sans-serif;
-  font-weight: 700;
+  font-weight: 700 !important;
   letter-spacing: -0.02em;
+  line-height: 1.1;
 }
 
 .site-nav .menu-icon {
   font-family: none !important; 
 }
 
-.site-title {
-  font-weight: 700 !important;
-  letter-spacing: -0.02em;
+// Header & Navigation
+.site-header { 
+  background-color: #fff; 
+  border: none !important; 
 }
 
-.post-title, 
-.post-header h1, 
-.page-heading,
-.post-content h1 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 700 !important;
-  letter-spacing: -0.02em;
-  line-height: 1.1; 
+.site-title, .site-title:visited, 
+.page-link { 
+  color: #111 !important; 
+  text-decoration: none !important; 
+}
+
+// Profile Image
+.profile-img {
+  display: block; 
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover; 
+  border-radius: 50%;
+  margin-bottom: 30px; 
+  border: 4px solid #fff; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+// Post List Styling
+.post-list {
+  margin: 0 !important; 
+  padding: 0 !important; 
+  list-style: none;
+  li {
+    margin-bottom: 0 !important; 
+    padding-bottom: 8px !important; 
+    display: flex !important; 
+    align-items: baseline;
+    h3 { 
+      display: inline !important; 
+      margin: 0 !important; 
+      line-height: 1.2 !important; 
+      font-size: 16px !important; 
+      font-weight: 500 !important; 
+    }
+  }
+}
+
+.post-link { 
+  font-size: 16px !important; 
+  color: #111 !important; 
+  text-decoration: none !important; 
+  margin-left: 20px; 
+  &:hover { 
+    text-decoration: underline !important; 
+  } 
+}
+
+.post-meta { 
+  font-size: 14px; 
+  color: #999; 
+  min-width: 100px; 
+  display: inline-block !important; 
 }
