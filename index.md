@@ -32,7 +32,7 @@ Currently, most of my time is spent focusing on data-driven insights and project
   {% endfor %}
 </ul>
 
-### I will also be here:
+### I will also be here.
 Life's joyful glitches and hectic moments
 
 <div class="social-links-home">
