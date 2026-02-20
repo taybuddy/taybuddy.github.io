@@ -4,61 +4,80 @@ title: Toolbox
 permalink: /toolbox/
 ---
 # Software, Apps, Gears, and Other Stuff What I Use Daily
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-### 💻 Hardware & Gears
-The physical tools that I rely on every day.
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
 
-* **Laptop:** Lenovo Thinkpad T450
-* **Peripherals:** Logitech Wireless Keyboard & Mouse
-* **Storage:** Seagate External 500GB HDD
-* **Mobile:** Redmi 7 Handset
-
-
-### 🐧 Operating System
-* **Ubuntu 24.04 LTS** - My primary daily driver for stability and performance.
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 
-### 🚀 Desktop Software
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
 
-* **Office & Mail:** LibreOffice, Thunderbird Mail
-* **Reading:** Bookworm Document Reader, Calibre
-* **Development:** LAMPP (Local Apache, MariaDB, PHP), pgAdmin4 
-
-
-### 🎨 Image Editors & Prototyping
-* **Inkscape** - Vector graphics
-* **GIMP** - Photo manipulation
-* **Rawtherapee** - RAW image processing
-* **Canva** - Quick online designs
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 
-### ✍️ Writing & Notes
-* **Google Keep** (Quick notes)
-* **Google Docs** (Documents)
-* **MarkText** (Markdown editing)
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 
-### 💻 Code Editor: VS Code
-My favorite environment for writing code.
-* **Theme:** One Dark Pro
-* **Icons:** VSCode Great Icons
-* **Key Extensions:** Live Server (Instant browser preview)
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 
-### 🌐 Web Browser: Chrome
-**Essential Extensions:**
-* **Google Translate**
-* **Grammarly**
-* **WhatFont** & **ColorZilla**
-* **GoFullPage** (Full page screenshots)
-* **Lorem Ipsum Generator**
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 
-### ☁️ Cloud Services
-* **Dropbox**
-* **Google Drive**
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
+
+
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
+
+
+### 💻 Lorem ipsum dolor sit
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+* **sapien vitae:** Quisque faucibus ex sapien vitae 
+* **nunc posuere:** Quisque faucibus ex sapien vitae 
+* **Ad litora torquent:** Quisque faucibus ex sapien vitae 
+* **pellentesque sem:** Quisque faucibus ex sapien vitae 
 
 &nbsp;
 
 
-> "The more skilled in using tools, the faster the productivity will be."
+> "Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."

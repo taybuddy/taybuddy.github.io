@@ -8,12 +8,12 @@ Let me explore my passion and share what I learn along the way.
 
 ---
 
-### A little about me
-Hi, I'm **Tay**. I'm an engineer from Myanmar (Burma), and who has a passion for digital economic velocity. And also, I write code, enjoy memes, and listen music. 
+### Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-In 2016, I made [a website](#) for my friend's company. It was the first step of my journey in the web development field.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-Currently, most of my time is spent focusing on data-driven insights and project growth.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
 &nbsp;
 
@@ -32,8 +32,8 @@ Currently, most of my time is spent focusing on data-driven insights and project
   {% endfor %}
 </ul>
 
-### I will also be here.
-Life's joyful glitches and hectic moments
+### Pulvinar vivamus fringilla lacus 
+Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
 
 <div class="social-links-home">
   <span>

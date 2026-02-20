@@ -4,44 +4,60 @@ title: About Me
 permalink: /about/
 ---
 
-# Here's My Story
+# Lorem ipsum dolor sit amet
 
-Hi, I'm **Tay**. I'm an engineer from Myanmar (Burma), and who has a passion for digital economic velocity. And also, I write code, enjoy memes, and listen music. In 2016, I made [a website](#) for my friend's company. It was the first step of my journey in the web development field.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-## Education
-I graduated as an electronic & communication engineer at Pyay Technological University (PTU) in 2009.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-## Work Experience
-I have been working in the Telecom industry since 2010. For the first (2) years, I worked in the mobile phone sales and service sector, and for the next (6) years in the telecom sector.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-* **Mr.Fone Telecom Center (2010)**
-    * Job role as: Mobile Phone Technician
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+## Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+## In id cursus mi pretium
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+* **Quisque faucibus ex sapien vitae pellentesque sem placerat**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
 
-* **SENIOR Mobile Sales & Services (2011)**
-    * Job role as: Regional Manager
+* **Quisque faucibus ex sapien vitae pellentesque sem placerat**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
 
-* **TMH Telecom Public Co., Ltd (2012 - 2018)**
-    * Job role as: Telecom Engineer, Marketing Executive, Assistant Manager, IT Manager
+* **Quisque faucibus ex sapien vitae pellentesque sem placerat**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
     
-* **Tay N Toast Projects (2024 - Present)**
-    * Job role as: Data Analyst
+* **Quisque faucibus ex sapien vitae pellentesque sem placerat**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
-Currently, most of my time is spent focusing on data-driven insights and project growth.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-## My Skills
+## conubia nostra inceptos himenaeos
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
-### Fundamental Linux Skills
-`Bash Scripting`
+* **Quisque faucibus ex sapien vitae**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
-### Front-end Skills
-`HTML` `CSS` `JavaScript` `Bootstrap`
 
-### Back-end Skills
-`Python` `SQL/PostgreSQL`
+* **Quisque faucibus ex sapien vitae**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
 
-### Development Tools
-`Git/GitHub` `Visual Studio Code` `Power BI` `Excel/Google Sheets`
+
+* **Quisque faucibus ex sapien vitae**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
+
+    
+* **Quisque faucibus ex sapien vitae**
+    * Lorem ipsum: Ut hendrerit semper vel class aptent taciti 
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
