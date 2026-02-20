@@ -108,6 +108,7 @@ body {
   transform: scale(1.1); 
 }
 
+
 //Footer content
 .site-footer .wrapper::after {
   content: "© 2026 Taybuddy. All rights reserved.";
@@ -117,40 +118,6 @@ body {
   margin-top: 10px;
   text-align: center; 
 }
-
-.social-media-list {
-  display: flex !important;
-  justify-content: center !important;
-  gap: 20px; 
-  list-style: none;
-  padding: 0;
-  margin: 0 auto 10px auto !important;
-
-  .svg-icon {
-    width: 20px !important;  
-    height: 20px !important;
-    fill: #999 !important;  
-    transition: fill 0.3s ease;
-
-    &:hover {
-      fill: #111 !important; 
-    }
-  }
-}
-
-.footer-col-wrapper {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  text-align: center;
-}
-
-.site-footer .wrapper::after {
-  margin-top: 20px;
-  border-top: 1px solid #eee;
-  padding-top: 10px;
-}
-
 
 
 // Mobile Responsive
