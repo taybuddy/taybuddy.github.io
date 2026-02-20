@@ -98,6 +98,15 @@ body {
   color: #333;
 }
 
+//Footer content
+.site-footer .wrapper::after {
+  content: "© 2026 Taybuddy. All rights reserved.";
+  display: block;
+  font-size: 13px;
+  color: #888;
+  margin-top: 10px;
+  text-align: center; 
+}
 
 // Mobile Responsive
 @media screen and (max-width: 600px) {

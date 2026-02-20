@@ -29,10 +29,9 @@ minima:
     - title: x-twitter
       icon: x-twitter
       url: "#"
+  hide_site_feed_link: true
 
 baseurl: ""
 url: "https://taybuddy.github.io"
 
 footer_content: "© 2026 Taybuddy. All rights reserved."
-
-hide_site_feed_link: true
