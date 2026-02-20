@@ -30,6 +30,7 @@ minima:
       icon: x-twitter
       url: "#"
   hide_site_feed_link: true
+  show_excerpts: true
 
 baseurl: ""
 url: "https://taybuddy.github.io"
