@@ -22,7 +22,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-title, 
 .post-header h1, 
-.page-heading {
+.page-heading,
+.post-content h1 {
   font-family: 'Inter', sans-serif;
   font-weight: 700 !important;
   letter-spacing: -0.02em;
