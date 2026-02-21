@@ -119,6 +119,20 @@ body {
   text-align: center; 
 }
 
+.social-media-list {
+
+  li {
+    border: none !important; 
+    display: inline-block;  
+    padding: 0 10px;       
+  }
+
+  a {
+    border: none !important; 
+    text-decoration: none !important;
+  }
+}
+
 
 // Mobile Responsive
 @media screen and (max-width: 600px) {
