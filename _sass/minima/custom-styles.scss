@@ -7,7 +7,6 @@ body {
   letter-spacing: -0.01em;
 }
 
-.site-title,
 .post-title, 
 .post-header h1, .post-header h2, .post-header h3, 
 .post-content h1, .post-content h2, .post-content h3,
@@ -20,6 +19,9 @@ body {
 }
 
 .site-title, .site-title:visited { 
+  font-family: 'Luckiest Guy', cursive !important; 
+  font-size: 30px !important;
+  font-weight: 400 !important;
   color: #111 !important; 
   text-decoration: none !important; 
   margin-top: 15px;     
