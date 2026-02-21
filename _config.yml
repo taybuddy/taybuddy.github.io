@@ -29,6 +29,9 @@ minima:
     - title: x-twitter
       icon: x-twitter
       url: "#"
+    - title: linkedin       
+      icon: linkedin     
+      url: "#" 
   hide_site_feed_link: true
 
 baseurl: ""
