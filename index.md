@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
   {% endfor %}
 </ul>
 
-### Pulvinar vivamus fringilla lacus 
+### 📍 Pulvinar vivamus fringilla lacus 
 Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
 
 <div class="social-links-home">
