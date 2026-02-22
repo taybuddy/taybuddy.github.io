@@ -125,6 +125,37 @@ body {
 //index.md => icon container
 .social-links-home {
   margin-top: 10px;
+  display: flex;      
+  gap: 12px;           
+  align-items: center;
+
+  span {
+    display: inline-flex;
+  }
+
+  a {
+    color: inherit !important; 
+    text-decoration: none !important;
+    border-bottom: none !important;
+    display: block;
+    line-height: 0; 
+  }
+
+  a:hover svg {
+    transform: scale(1.15);
+    transition: transform 0.2s ease;
+  }
+
+  .bi-github, .bi-twitter-x {
+    fill: #24292e !important; 
+  }
+}
+
+
+
+/*
+.social-links-home {
+  margin-top: 10px;
 }
 
 .social-links-home span {
@@ -135,7 +166,7 @@ body {
 .social-links-home a:hover svg {
   transform: scale(1.1); 
 }
-
+*/
 
 //Footer content
 .site-footer .wrapper::after {
