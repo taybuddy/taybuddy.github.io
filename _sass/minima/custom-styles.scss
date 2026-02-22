@@ -7,6 +7,10 @@ body {
   letter-spacing: -0.01em;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 .site-title, .site-title:visited { 
   font-family: 'Luckiest Guy', cursive !important; 
   font-size: 30px !important;
