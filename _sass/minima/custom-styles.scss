@@ -43,19 +43,6 @@ body {
   color: #111 !important; 
   text-decoration: none !important; 
 }
-/*
-// Profile Image
-.profile-img {
-  display: block; 
-  width: 150px; 
-  height: 150px; 
-  object-fit: cover; 
-  border-radius: 50%;
-  margin-bottom: 30px; 
-  border: 4px solid #fff; 
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-*/
 
 //
 .intro-container {
@@ -66,8 +53,8 @@ body {
   margin-bottom: 40px;
 
   .profile-img {
-    width: 100px;          
-    height: 100px;
+    width: 2000px;          
+    height: 2000px;
     border-radius: 50%; 
     border: 4px solid #fff; 
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);    
