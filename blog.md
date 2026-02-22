@@ -6,8 +6,6 @@ permalink: /blog/
 
 # Tempus leo eu aenean sed 
 
-Lorem ipsum dolor sit amet consectetur
-
 <ul>
   {% for post in site.posts %}
     <li>
