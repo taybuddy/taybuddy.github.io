@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-# Tempus leo eu aenean sed diam urna tempor
+# Tempus leo eu aenean sed 
 
 Lorem ipsum dolor sit amet consectetur
 
@@ -18,6 +18,5 @@ Lorem ipsum dolor sit amet consectetur
 </ul>
 
 &nbsp;
-
 
 > "Iaculis massa nisl malesuada lacinia integer nunc posuere. "
