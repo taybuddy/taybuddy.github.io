@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Tempus leo eu aenean sed diam urna tempor
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet consectetur
 
 <ul>
   {% for post in site.posts %}

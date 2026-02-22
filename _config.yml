@@ -4,7 +4,7 @@ author:
   name: Tay
   email: taybuddy@example.com
 description: >
-  Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+  Iaculis massa nisl malesuada lacinia integer nunc posuere. 
   
 # Build settings
 remote_theme: jekyll/minima
