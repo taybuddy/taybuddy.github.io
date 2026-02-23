@@ -5,7 +5,7 @@ layout: page
   <img src="{{ '/assets/images/profile.png' | relative_url }}" class="profile-img" alt="@taybuddy">
   
   <div class="intro-text">
-    <h1>Lorem ipsum dolor sit amet 👋</h1>
+    <h1>Lorem ipsum dolor sit 👋</h1>
 
     <p>Quisque faucibus ex sapien vitae pellentesque sem placerat. Duis efficitur ornare feugiat. Ut varius, enim sodales facilisis egestas, magna elit.</p>
 
